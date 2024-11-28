@@ -1,5 +1,5 @@
 <?php
-namespace core;
+namespace Ch1nesy\MyCore;
 use pdo;
 
 class Database

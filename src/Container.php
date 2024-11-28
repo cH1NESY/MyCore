@@ -1,20 +1,7 @@
 <?php
 
-namespace core;
+namespace Ch1nesy\MyCore;
 
-use Controller\BasketController;
-use Controller\FavoriteController;
-use Controller\OrderController;
-use Controller\ProductController;
-use Controller\UserController;
-use Model\Product;
-use Model\User;
-use Model\UserFavorites;
-use Model\UserProduct;
-use Service\Auth\AuthSessionService;
-use Service\BasketService;
-use Service\FavoriteService;
-use Service\OrderService;
 
 class Container
 {

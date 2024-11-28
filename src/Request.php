@@ -1,6 +1,6 @@
 <?php
 
-namespace core;
+namespace Ch1nesy\MyCore;
 
 class Request
 {
