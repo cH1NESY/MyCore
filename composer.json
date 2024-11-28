@@ -1,0 +1,15 @@
+{
+    "name": "ch1nesy/my-core",
+    "autoload": {
+        "psr-4": {
+            "Ch1nesy\\MyCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Чингис",
+            "email": "underchina@mail.ru"
+        }
+    ],
+    "require": {}
+}
